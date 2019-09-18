@@ -1,5 +1,8 @@
 ## Please see Project1.Rmd, Project1.html,Project1.pdf in the main directory of this repo, they are the uploaded final project 1 result.
 
+## Code reference is the lecture sample slides
+
+
 ##  Applied Data Science @ Columbia
 ## Fall 2019
 ## Project 1: A "data story" on the songs of our times
