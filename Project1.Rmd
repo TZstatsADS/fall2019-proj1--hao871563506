@@ -1,5 +1,5 @@
 ---
-title: "bw2585 Project1"
+title: "Random Chosen Artists clustering and patterns"
 output:
   pdf_document: default
   html_notebook: default
@@ -7,6 +7,11 @@ output:
     df_print: paged
 ---
 
+## Introduction
+
+Artists clustering and patterns are interesting topics when we are going to do a recommendation system for users, the project is mostly focus on the clustering part. Due to the presentation limit, our topic is limited to random chosen artists instead of all artists.
+
+## load data
 
 ```{r, message=FALSE, warning=FALSE}
 load('D:/Github/fall2019-proj1--hao871563506/output/processed_lyrics.RData')
@@ -337,4 +342,7 @@ p1
 ```
 
 Above is a lexical diversity plot for a chosen artist 'benny-benassi', x-axis is the year, y-axis is the lexical diversity . The more varied a vocabulary a text possesses, the higher its lexical diversity. Song Vocabulary is a representation of how many unique words are used in a song. So reading the above plot, it means that over the years, there is a upward trend in 'benny-benassi''s lyric diversity, so it means he is using more unique words in his lyrics. 
+
+## Conclusion
+Using the above methods, the clustering of artists can be correctly performed. Future effort will be put into how to determine topic not by manual, and this should improve the results a lot.
 
