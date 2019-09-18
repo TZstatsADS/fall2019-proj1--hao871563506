@@ -9,6 +9,8 @@ This is the first and only *individual* (as opposed to *team*) this semester.
 
 Term: Fall 2019
 
+Please see Project1.Rmd, Project1.html,Project1.pdf, they are the uploaded final project result.
+
 + Projec title: Lorem ipsum dolor sit amet
 + This project is conducted by [your name]
 
