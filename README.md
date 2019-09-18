@@ -1,4 +1,6 @@
-# Applied Data Science @ Columbia
+## Please see Project1.Rmd, Project1.html,Project1.pdf in the main directory of this repo, they are the uploaded final project 1 result.
+
+##  Applied Data Science @ Columbia
 ## Fall 2019
 ## Project 1: A "data story" on the songs of our times
 
@@ -8,8 +10,6 @@
 This is the first and only *individual* (as opposed to *team*) this semester. 
 
 Term: Fall 2019
-
-Please see Project1.Rmd, Project1.html,Project1.pdf, they are the uploaded final project result.
 
 + Projec title: Lorem ipsum dolor sit amet
 + This project is conducted by [your name]
